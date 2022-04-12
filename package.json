@@ -1,0 +1,14 @@
+{
+  "name": "elven-alertmanager-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "dependencies": {
+    "prom-client": "^14.0.1"
+  },
+  "types": "./index.d.ts"
+}
