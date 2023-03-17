@@ -41,4 +41,4 @@ const InitElvenAlertManager = () => {
   };
 };
 
-module.exports = { InitElvenAlertManager };
+module.exports = { InitElvenAlertManager, Alert, Warning };
